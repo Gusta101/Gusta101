@@ -4,4 +4,5 @@
 - I’m looking to collaborate on any projects i could be useful to absorb and pass along some knowledge and experience on this area
 - I generally like to study and code various programming languages to learn good practices
 - I'm very curious about this area and I'm  willing to commit to a job that can advance my career and my English fluency
-- 📫 E-mail: gu_gui14@hotmail.com   Instagram: @gusta_balb1   LinkedIn: linkedin.com/in/gustavo-balbino-1751b5230
+- My main programming area is Back-End with emphasis on Python language (Personal Projects on Home Page)
+- Contact me on: E-mail: gu_gui14@hotmail.com   Instagram: @gusta_balb1   LinkedIn: www.linkedin.com/in/gustavo-balbino101
