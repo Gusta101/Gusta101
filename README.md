@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Gustavo, 18
--  * I'm a brazilian junior developer that just finished high school and is now looking for oportunities on Software Engineering career
-- I’m currently taking a Technical Course in Software Development
-- I’m looking to collaborate on any projects i could be useful to absorb and pass along some knowledge and experience on this area
-- I generally like to study and code various programming languages to learn good practices
-- I'm very curious about this area and I'm  willing to commit to a job that can advance my career and my English fluency
-- My main programming area is Back-End with emphasis on Python language (Personal Projects on Home Page)
-- Contact me on: E-mail: gu_gui14@hotmail.com   Instagram: @gusta_balb1   LinkedIn: www.linkedin.com/in/gustavo-balbino101
+=> 👋 Olá, eu sou Gustavo, 20 anos;
+=> Sou Universitário de Engenharia de Computação - IFSP, e desenvolvedor júnior em busca de oportunidades na área de Desenvolvimento;
+=> Estou procurando colaborar em projetos onde eu possa ser útil para absorver e compartilhar conhecimento e experiência nessa área;
+=> Como hobby gosto de jogar videogames e programar em diversas linguagens para aprender boas práticas e desenvolver minhas habilidades;
+=> Minha principal área de programação é Full-Stack, com ênfase na linguagem Python (Projetos Pessoais na Página Inicial)
+=> Entre em contato comigo em:
+ - E-mail: gu_gui14@hotmail.com
+ - Instagram: @gusta_balb1
+ - LinkedIn: www.linkedin.com/in/gustavo-balbino101
+
+
+
+
